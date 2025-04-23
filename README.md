@@ -1,2 +1,5 @@
-# intro-to-numba
-This repository provides a comprehensive guide to understanding and utilizing Numba, a Just-in-Time (JIT) compiler for Python that is designed to speed up numerical and scientific computing.
+# Name of the training
+
+**Documentation**: 
+
+**Common ARE errors** : https://opus.nci.org.au/spaces/NCIT/pages/399803051/Common+ARE+Errors
