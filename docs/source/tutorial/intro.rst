@@ -62,7 +62,15 @@ Code Blocks
     from numba import jit, int32, prange, vectorize, float64, cuda
 
 
+Notes
+--------------
 
+.. note::
+ 1.  python3/3.11.0
+ 2.  papi/7.0.1
+ 3.  openmpi/4.0.1
+ 4.  cuda/12.3.2
+ 5.  gcc/14.2.0
 
 Explanations
 ---------------
